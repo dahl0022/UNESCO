@@ -1,0 +1,16 @@
+/* 
+Theme Name:    myNewTheme
+Template:    inspiro
+Version:      1.0.1
+Description:  inspiro childtheme
+Author:      Dahlia Rindom
+*/
+.inner-wrap {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 40px;
+}
+.projekterArticles {
+  width: 100px;
+ 
+}
